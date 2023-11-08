@@ -1,0 +1,1 @@
+{"showFPS": false, "frameRate": 60, "jsListOrder": ["src/Engine/**/*.js", "src/Lobby/**/*.js", "src/Lobby/*.js", "src/Game/**/*.js"], "project_type": "javascript", "debugMode": 1, "renderMode": 0, "id": "gameCanvas"}
